@@ -1,0 +1,1 @@
+﻿WMV格式是Microsoft公司出品的视频格式文件，Microsoft公司希望用其取代QuickT ime之类的技术标准以及AVI之类的文件扩展名。
